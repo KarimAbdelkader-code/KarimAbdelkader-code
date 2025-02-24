@@ -70,7 +70,7 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
   - Performly is accessible via web and mobile applications, allowing employees to update personal information, request time off, and access HR resources independently.
   - Additionally, Performly offers a mobile app called "Performly Talent," providing features such as real-time progress updates, goal setting, and development planning.
   - Implemented using React, NestJS, GraphQL, and Prisma.
-  - Visit [Performly Website](https://performly.com) for more information.
+  - Visit [Performly Website](https://solace.performlyhcm.com) for more information.
 - **UltraMed**
   - Developed a smart web application using Angular that manages and controls various aspects of UltraMed, a medical company.
 - **MovieDB**
