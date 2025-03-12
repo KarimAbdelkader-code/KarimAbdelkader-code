@@ -8,7 +8,7 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
 - **Phone:** +201095581027
 - **LinkedIn:** [Karim Saad](https://www.linkedin.com/in/karim-saad-a2a15224b)
 
-## 🎓 Education
+## 🎓 EducationA
 - **German University in Cairo**
   - B.Sc., Computer Software Engineering
   - Cairo, EG
@@ -45,8 +45,8 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
   - Enhanced user experience by integrating dynamic components, handling APIs, and optimizing server-side logic.
 
 ### IOCode
-- **Fullstack Web Developer** (Feb. 2024 - Dec. 2024)
-  - Worked on both backend and frontend development using Angular and .NET.
+- **Fullstack Web Developer** (Feb. 2024 - Feb. 2025)
+  - Worked on both backend and frontend development using Angular and Node.js.
   - Developed and maintained complex web applications.
 
 ### Freelance
