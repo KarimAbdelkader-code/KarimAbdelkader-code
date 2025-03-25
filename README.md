@@ -8,7 +8,7 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
 - **Phone:** +201095581027
 - **LinkedIn:** [Karim Saad](https://www.linkedin.com/in/karim-saad-a2a15224b)
 
-## 🎓 EducationA
+## 🎓 Education
 - **German University in Cairo**
   - B.Sc., Computer Software Engineering
   - Cairo, EG
