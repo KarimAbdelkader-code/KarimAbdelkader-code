@@ -1,7 +1,7 @@
 # Hi there, I'm Karim Abdelkader! 👋
 
 ## About Me
-I am a passionate Software Engineer based in Cairo, Egypt. I have a strong background in computer software engineering with a diverse skill set in various programming languages and technologies. I enj[...]
+I am a passionate Software Engineer based in Cairo, Egypt. I have a strong background in computer software engineering with a diverse skill set in various programming languages and technologies. I enjoy solving complex problems and developing efficient and scalable web applications.
 
 ## 📫 Contact Information
 - **Email:** karim.saad2327@yahoo.com / karim.m.saad60@gmail.com
