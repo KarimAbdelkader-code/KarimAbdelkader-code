@@ -57,13 +57,13 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
 - **Intern at Self-Driving Car Lab** (Mar. 2022 - Jul. 2022)
 
 ## 🚀 Projects
-- **Mivida – Oriental Weavers Phygital Store**
-  - **URL**: [https://select.orientalweavers.com](https://select.orientalweavers.com)
-  - **Developed RugAI**: An innovative AI-powered system designed to generate personalized rug images based on user preferences.
-  - **E-Commerce Integration**: Built a comprehensive e-commerce platform enabling users to explore, customize, and purchase rugs seamlessly.
-  - **Enhanced User Experience**: Integrated OTP-based SMS authentication for secure and efficient user login.
-  - **Room Visualization Tool**: Integrated with **Roomvo** to allow users to visualize their selected rugs in their home environment.
-  - **Admin Panel**: Designed and implemented a user-friendly admin panel to streamline management and enhance operational efficiency.
+- **Mivida – Oriental Weavers Phygital Store**  
+  - Developed **RugAI**, an innovative AI-powered system to generate personalized rug images based on user preferences.  
+  - Built a comprehensive e-commerce platform enabling users to explore, customize, and purchase rugs seamlessly.  
+  - Integrated OTP-based SMS authentication for secure and efficient user login.  
+  - Embedded **Roomvo** visualization tool allowing users to preview rugs in their own home environment.  
+  - Designed and implemented a user-friendly admin panel to streamline management and enhance operational efficiency.  
+  - Visit [Mivida Website](https://select.orientalweavers.com) for more information.  
 
 - **TijTech**
   - Developed a comprehensive fashion clothing system utilizing React for the frontend and Python for the backend.
