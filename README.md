@@ -1,7 +1,7 @@
 # Hi there, I'm Karim Abdelkader! 👋
 
 ## About Me
-I am a passionate Software Engineer based in Cairo, Egypt. I have a strong background in computer software engineering with a diverse skill set in various programming languages and technologies. I enjoy solving complex problems and developing efficient and scalable web applications.
+I am a passionate Software Engineer based in Cairo, Egypt. I have a strong background in computer software engineering with a diverse skill set in various programming languages and technologies. I enj[...]
 
 ## 📫 Contact Information
 - **Email:** karim.saad2327@yahoo.com / karim.m.saad60@gmail.com
@@ -57,10 +57,19 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
 - **Intern at Self-Driving Car Lab** (Mar. 2022 - Jul. 2022)
 
 ## 🚀 Projects
+- **Mivida – Oriental Weavers Phygital Store**
+  - **URL**: [https://select.orientalweavers.com](https://select.orientalweavers.com)
+  - **Developed RugAI**: An innovative AI-powered system designed to generate personalized rug images based on user preferences.
+  - **E-Commerce Integration**: Built a comprehensive e-commerce platform enabling users to explore, customize, and purchase rugs seamlessly.
+  - **Enhanced User Experience**: Integrated OTP-based SMS authentication for secure and efficient user login.
+  - **Room Visualization Tool**: Integrated with **Roomvo** to allow users to visualize their selected rugs in their home environment.
+  - **Admin Panel**: Designed and implemented a user-friendly admin panel to streamline management and enhance operational efficiency.
+
 - **TijTech**
   - Developed a comprehensive fashion clothing system utilizing React for the frontend and Python for the backend.
   - Implemented features that allowed users to enhance the online shopping experience.
   - Ensured a responsive and user-friendly interface, leading to increased user engagement and satisfaction.
+
 - **Performly**
   - Performly is a cloud-based Human Resources Management System (HRMS) designed to streamline and automate HR processes for organizations of various sizes. 
   - Key features include:
@@ -71,25 +80,36 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
   - Additionally, Performly offers a mobile app called "Performly Talent," providing features such as real-time progress updates, goal setting, and development planning.
   - Implemented using React, NestJS, GraphQL, and Prisma.
   - Visit [Performly Website](https://solace.performlyhcm.com) for more information.
+
+
 - **UltraMed**
   - Developed a smart web application using Angular that manages and controls various aspects of UltraMed, a medical company.
+
 - **MovieDB**
   - Developed a responsive web application using Angular that integrates with a RESTful API.
+
 - **The Legend Of Zelda**
   - Implemented The Legend Of Zelda Breath Of The Wild using Unity and C#.
+
 - **Decision Unity Game**
   - Implemented a decision game using Unity and C#.
+
 - **Infinite Runner Game**
   - Implemented an Infinite Runner game using Unity and C#.
+
 - **Moral Machine for Autonomous Driving**
   - Implemented different scenarios on AI features using Carla simulator in Python to enhance self-driving cars.
   - Achieved 80% accuracy in making the car choose the right action.
+
 - **Airline Reservation System**
   - Implemented a complete Airline Reservation System for individuals to reserve their travel flights to and from countries using React, Node.JS, and MongoDB.
+
 - **HearthStone Game Clone**
   - Implemented Hearthstone game with its Graphical User Interface using Java OOP features.
+
 - **GUCera**
   - Implemented an open online course provider that offers massive open online courses and certificates with its User interface using SQL and C.
+
 - **Data Engineering Cleaning**
   - Data cleaning, data transforming, and data presenting using Python.
 
