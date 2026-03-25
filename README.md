@@ -57,6 +57,19 @@ I am a passionate Software Engineer based in Cairo, Egypt. I have a strong backg
 - **Intern at Self-Driving Car Lab** (Mar. 2022 - Jul. 2022)
 
 ## 🚀 Projects
+- **NBE Celebrity Polaroid Experience – National Bank of Egypt (Ramadan 2026 Campaign)**  
+  - Led the end-to-end technical delivery of a high-traffic, mobile-first user acquisition platform as part of a national advertising campaign.  
+  - Designed and implemented a scalable architecture for handling user-generated media uploads, optimizing reliability and performance under peak campaign load.  
+  - Built a robust media processing workflow to streamline image ingestion, validation, and storage, reducing operational overhead and failure rates.  
+  - Developed a secure, bilingual (EN/AR), consent-first user experience aligned with compliance and data protection requirements.  
+  - Engineered a full-featured admin control panel for moderation, analytics, and bulk asset management, enabling efficient campaign operations.
+
+ - **Career Companion – Beltone x AUC Employment Fair Campaign**  
+   - Led development of an AI-powered dual-screen platform for real-time student engagement and lead capture during a large-scale employment fair.  
+   - Built a synchronized Control Panel + LED Display using WebSockets to manage registration, AI chat, CV analysis, and quiz flows.  
+   - Implemented QR-based CV upload with automated parsing and profile linking to streamline onboarding.  
+   - Integrated LLM-powered career mentoring, CV analysis, and automated CV rewrite generation.
+    
 - **Mivida – Oriental Weavers Phygital Store**  
   - Developed **RugAI**, an innovative AI-powered system to generate personalized rug images based on user preferences.  
   - Built a comprehensive e-commerce platform enabling users to explore, customize, and purchase rugs seamlessly.  
